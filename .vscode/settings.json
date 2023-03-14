@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "allocator.h": "c",
+        "super.h": "c",
+        "internal.h": "c",
+        "types.h": "c",
+        "inode.h": "c",
+        "debug.h": "c",
+        "pthread.h": "c",
+        "nvmio.h": "c",
+        "unistd.h": "c",
+        "stdio.h": "c"
+    }
+}
